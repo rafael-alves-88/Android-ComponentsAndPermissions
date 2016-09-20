@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoComponentsAndroid</string>
+    <string name="botao_ligar">Ligar</string>
+    <string name="botao_ver_contatos">Ver Contatos</string>
+</resources>
